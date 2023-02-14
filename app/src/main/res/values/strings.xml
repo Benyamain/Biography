@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Biography</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="first_name">First Name</string>
+    <string name="biography_form">Biography Form</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="school">School</string>
+    <string name="school_hint">School</string>
+    <string name="graduation_year">Grad Year</string>
+    <string name="graduation_year_hint">Graduation Year</string>
+    <string name="degree">Degree</string>
+    <string name="b_s">B.S.</string>
+    <string name="m_s">M.S.</string>
+    <string name="j_d">J.D.</string>
+    <string name="mba">MBA</string>
+    <string name="bfa">BFA</string>
+    <string name="dds">DDS</string>
+    <string name="mfa">MFA</string>
+    <string name="b_a">B.A.</string>
+    <string name="m_d">M.D.</string>
+    <string name="m_a">M.A.</string>
+    <string name="bas">BAS</string>
+    <string name="ph_d">Ph.D.</string>
+    <string name="major_text">Major</string>
+    <string name="favorite_activities_hint">Favorite Activities</string>
+    <string name="favorite_activities">Fav Activities</string>
+    <string name="create_text">CREATE</string>
+    <string-array name="majors">
+        <item>Computer Science</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Architecture</item>
+    </string-array>
+</resources>
