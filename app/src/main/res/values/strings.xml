@@ -26,6 +26,7 @@
     <string name="favorite_activities_hint">Favorite Activities</string>
     <string name="favorite_activities">Fav Activities</string>
     <string name="create_text">CREATE</string>
+    <string name="degree_hint">Degree(s)</string>
     <string-array name="majors">
         <item>Computer Science</item>
         <item>Mathematics</item>
